@@ -6,11 +6,11 @@
 <br>
 
 
-<a href="https://www.linkedin.com/xxxxxxxxx">
+<a href="https://www.linkedin.com/nurayarisoy">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://xxxxxxxx.github.io/">
+<a href="https://nurayarisoy.github.io/">
   <img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
