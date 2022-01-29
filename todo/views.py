@@ -51,4 +51,11 @@ def todo_update(request, id):
 
 
 def todo_delete(request, id):
-    pass
+    todo = Todo.objects.get(id=id)
+
+    if request.method == "POST":
+        todo.delete()
+        return redirect("list")
+
+    context = {"todo": todo}
+    return render(request, "todo/todo_delete.html", context)
